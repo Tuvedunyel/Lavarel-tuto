@@ -24,7 +24,7 @@
                         <a href="/" class="decoration-none text-[18px]">Accueil</a>
                     </li>
                     <li>
-                        <a href="{{route('blog.index')}}" class="decoration-none text-[18px]">blog</a>
+                        <a href="{{route('blog.index')}}" class="decoration-none text-[18px]">Blog</a>
                     </li>
                 </ul>
             </nav>
